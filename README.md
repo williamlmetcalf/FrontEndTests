@@ -47,10 +47,13 @@ The UI will have a button labeled "Review Payment Details" which will take you t
 
 #### 2. Review Payment Information
 This workflow step will display the information entered in the previous step for the user to review:
-* Display First and Last Name together as one field called "name"
-* Show email as a mailto link
+* Full Name
+ * Concatenation of First and Last Name
+* Email
+ * Show email as a mailto link
  * Hide email from display if not provided
-* Show the amount formatted as valid currency ($#,###.##)
+* Amount
+ * Formatted as valid currency ($#,###.##)
 
 The UI will have two buttons
 * A button labeled "Back" that will return the user to the previous step
