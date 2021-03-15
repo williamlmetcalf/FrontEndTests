@@ -7,9 +7,13 @@ This repository contains a number of exercises for Front-End Developer candidate
 ## Vue Validation Exercise
 
 ### Technical Requirements
+* You must use [Vue.js](https://vuejs.org/) for this exercise
 * You must use [Vuelidate](https://vuelidate.js.org/) to validate your form information
 * You must use [Vue Filters](https://vuejs.org/v2/guide/filters.html) to format data
+* You are free to use any other JavaScript libraries
 * You can use your own environment if available, otherwise complete this exercise using this [JSFiddle](https://jsfiddle.net/medtelligent_engineering/snb28arq/19/) as a base.
+ * It is difficult to code Vue Components from JSFiddle, so if you prefer to Componentize your application it is best to do that in your own development environment
+* You are free to style the application
 
 ### Exercise Breakdown
 In this exercise you will create a basic payment workflow using Vue.js. Your application will contain three steps (explained in detail below).
