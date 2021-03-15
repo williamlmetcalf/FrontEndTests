@@ -4,7 +4,7 @@ This repository contains a number of exercises for Front-End Developer candidate
 ## Basic Vue Exercise
 **This will contain information for a basic Vue exercise**
 
-## Vue Validation (with Vuelidate) Exercise
+## Vue Validation Exercise
 
 ### Technical Requirements
 * You must use [Vuelidate](https://vuelidate.js.org/) to validate your form information
