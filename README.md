@@ -43,7 +43,10 @@ This workflow step will contain a basic form that collects the following informa
   * Required
   * Must be a positive decimal number
 
-The UI will have a button labeled "Review Payment Details" which will take you to the next step.
+The UI will have one button 
+* Label as "Review Payment Details"
+* The button will take you to the next step
+* Disable the button if any form fields are invalid
 
 #### 2. Review Payment Information
 This workflow step will display the information entered in the previous step for the user to review:
