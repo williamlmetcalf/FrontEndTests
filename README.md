@@ -2,6 +2,7 @@
 This repository contains a number of exercises for Front-End Developer candidates for Medtelligent, Inc.
 
 ## Basic Vue Exercise
+**This will contain information for a basic Vue exercise**
 
 ## Vue Validation (with Vuelidate) Exercise
 
