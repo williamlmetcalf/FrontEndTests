@@ -6,7 +6,7 @@ This repository contains a number of exercises for Front-End Developer candidate
 ## Vue Validation (with Vuelidate) Exercise
 
 ### Create a Payment Workflow
-In this exercise you will create a basic payment workflow using Vue.js. You will be using [Vuelidate](https://vuelidate.js.org/) to validate your form information, and [Vue Filters](https://vuejs.org/v2/guide/filters.html) Your application will contain three steps:
+In this exercise you will create a basic payment workflow using Vue.js. You will be using [Vuelidate](https://vuelidate.js.org/) to validate your form information, and [Vue Filters](https://vuejs.org/v2/guide/filters.html) to format data. Your application will contain three steps:
 
 #### 1. Enter Payment Information
 In this workflow step you will accept the following information from the user:
