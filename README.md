@@ -11,7 +11,16 @@ This repository contains a number of exercises for Front-End Developer candidate
 * You are free to style the application
 
 ### Exercise Breakdown
-**This will contain information for a basic Vue exercise**
+In this excercise, you will create a basic password validation tool. Your Vue app will validate a password against the following criteria:
+* Must be between 16 and 30 characters
+* Must contain at least one capital letter
+* Must contain at least one lowercase letter
+* Must contain at least one of the following special characters !@#$%^&*)(+=._-
+* Cannot contain the word password
+
+Each criteria should be shown below the password textbox with the following format:
+* highlighted green when the condition is met
+* highlighted red when the condition is not met
 
 ## Vue Validation Exercise
 
@@ -25,7 +34,7 @@ This repository contains a number of exercises for Front-End Developer candidate
 * You are free to style the application
 
 ### Exercise Breakdown
-In this exercise you will create a basic payment workflow using Vue.js. Your application will contain three steps (explained in detail below).
+In this exercise, you will create a basic payment workflow using Vue.js. Your application will contain three steps (explained in detail below).
 
 #### 1. Enter Payment Information
 This workflow step will contain a basic form that collects the following information from the user:
@@ -43,7 +52,7 @@ This workflow step will contain a basic form that collects the following informa
   * Required
   * Must be a positive decimal number
 
-The UI will have one button 
+The UI will have one button:
 * Label as "Review Payment Details"
 * The button will take you to the next step
 * Disable the button if any form fields are invalid
@@ -58,7 +67,7 @@ This workflow step will display the information entered in the previous step for
 * Amount
   * Formatted as valid currency ($#,###.##)
 
-The UI will have two buttons
+The UI will have two buttons:
 * A button labeled "Back" that will return the user to the previous step
 * A button labeled "Submit Payment" which will take the user to the next step
 
